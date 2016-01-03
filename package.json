@@ -1,0 +1,21 @@
+{
+  "name": "npmdemo",
+  "version": "1.0.0",
+  "description": "notes which goes for npndemo. I am excited to move forward.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shaishavdesai/NPMRepo.git"
+  },
+  "keywords": [
+    "npmdemo"
+  ],
+  "author": "SD",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
